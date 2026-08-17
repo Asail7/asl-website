@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+/* The ASL design system: tokens, base type, and the component layer.
+   Tailwind utilities remain available for one-off layout adjustments. */
+@import "../styles/asl.css";
+
+/* Expose the design tokens to Tailwind so utilities such as text-ink,
+   bg-paper or border-line resolve against the same single source of truth. */
+@theme inline {
+  --color-paper: var(--paper);
+  --color-paper-raised: var(--paper-raised);
+  --color-paper-deep: var(--paper-deep);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-ink-mute: var(--ink-mute);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-accent: var(--accent);
+  --color-accent-deep: var(--accent-deep);
+  --color-accent-light: var(--accent-light);
+  --color-accent-tint: var(--accent-tint);
+
+  --font-sans: var(--font-sans);
+  --font-display: var(--font-display);
+
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+}

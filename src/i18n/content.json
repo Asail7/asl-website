@@ -1,0 +1,776 @@
+{
+  "ar": {
+    "dir": "rtl",
+    "locale": "ar",
+    "meta": {
+      "title": "ASL — تصميم وتطوير مواقع ويب",
+      "titleTemplate": "ASL — %s",
+      "description": "ASL علامة متخصصة في تصميم وتطوير مواقع الويب والتجارب الرقمية. نحوّل فكرتك إلى موقع عصري، سريع، وسهل الاستخدام يليق بمشروعك.",
+      "keywords": [
+        "تصميم مواقع",
+        "تطوير مواقع",
+        "تصميم وتطوير مواقع",
+        "مبرمجة مواقع",
+        "مطورة ويب",
+        "تصميم مواقع الرياض",
+        "صفحات هبوط",
+        "تصميم واجهات",
+        "موقع تعريفي للشركات",
+        "ASL"
+      ],
+      "ogAlt": "ASL — تصميم وتطوير مواقع ويب"
+    },
+    "brand": {
+      "name": "ASL",
+      "tagline": "تجارب رقمية تُبنى بعناية.",
+      "skipToContent": "تخطَّ إلى المحتوى"
+    },
+    "nav": {
+      "items": [
+        { "label": "الرئيسية", "href": "#top" },
+        { "label": "الخدمات", "href": "#services" },
+        { "label": "أعمالي", "href": "#work" },
+        { "label": "كيف أعمل", "href": "#process" },
+        { "label": "عن ASL", "href": "#about" },
+        { "label": "الأسئلة الشائعة", "href": "#faq" }
+      ],
+      "cta": "ابدأ مشروعك",
+      "openMenu": "فتح القائمة",
+      "closeMenu": "إغلاق القائمة",
+      "langLabel": "اللغة",
+      "switchTo": "English",
+      "menuTitle": "القائمة"
+    },
+    "hero": {
+      "eyebrow": "تصميم وتطوير مواقع ويب · الرياض",
+      "titleLead": "فكرتك تستحق موقعًا",
+      "titleAccent": "يترك أثرًا.",
+      "description": "في ASL أصمم وأطوّر مواقع ويب عصرية، سريعة، وسهلة الاستخدام تساعدك على تقديم فكرتك ومشروعك بالشكل الذي يستحقه.",
+      "primaryCta": "ابدأ مشروعك",
+      "secondaryCta": "شاهد أعمالي",
+      "scrollHint": "اكتشف",
+      "visual": {
+        "steps": ["الفكرة", "التصميم", "الكود", "الموقع"],
+        "browserLabel": "معاينة مباشرة",
+        "cardTypeTitle": "التايبوغرافي",
+        "cardTypeValue": "خط ثمانية",
+        "cardColorTitle": "الهوية اللونية",
+        "cardColorValue": "٣ ألوان فقط",
+        "previewHeadline": "فكرة تتحول إلى تجربة",
+        "previewCta": "ابدأ الآن"
+      }
+    },
+    "trust": {
+      "items": ["تصميم بوعي", "تطوير باحتراف", "تجربة تستحق"]
+    },
+    "services": {
+      "index": "٠١",
+      "label": "الخدمات",
+      "title": "وش نقدر نبني لك؟",
+      "subtitle": "من صفحة واحدة إلى منصة كاملة — كل مشروع يبدأ من هدفه، لا من قالب جاهز.",
+      "linkLabel": "اطلب هذه الخدمة",
+      "items": [
+        {
+          "num": "٠١",
+          "icon": "building",
+          "title": "مواقع الشركات",
+          "description": "موقع احترافي يعكس هوية شركتك ويعرّف عملاءك بخدماتك بطريقة واضحة ومقنعة."
+        },
+        {
+          "num": "٠٢",
+          "icon": "rocket",
+          "title": "مواقع المشاريع الناشئة",
+          "description": "نحوّل فكرتك إلى تجربة رقمية تساعدك على إطلاق مشروعك وتقديمه للعالم."
+        },
+        {
+          "num": "٠٣",
+          "icon": "target",
+          "title": "صفحات الهبوط",
+          "description": "صفحات مصممة لهدف واضح: إطلاق منتج، تقديم خدمة، حملة تسويقية، أو جمع العملاء المحتملين."
+        },
+        {
+          "num": "٠٤",
+          "icon": "user",
+          "title": "المواقع الشخصية والمعارض",
+          "description": "نبني لك حضورًا رقميًا احترافيًا يعكس شخصيتك وأعمالك بأسلوب يليق بها."
+        },
+        {
+          "num": "٠٥",
+          "icon": "refresh",
+          "title": "إعادة تصميم المواقع",
+          "description": "نحوّل الموقع القديم إلى تجربة حديثة، أسرع، أوضح، وأسهل استخدامًا."
+        },
+        {
+          "num": "٠٦",
+          "icon": "puzzle",
+          "title": "حلول ويب مخصصة",
+          "description": "إذا كان مشروعك يحتاج شيئًا مختلفًا، نصمم ونطوّر الحل بما يتناسب مع احتياجه."
+        }
+      ]
+    },
+    "value": {
+      "index": "٠٢",
+      "label": "لماذا ASL",
+      "title": "الموقع مو مجرد شكل حلو.",
+      "subtitle": "الشكل يجذب الانتباه، لكن ما يبقي الزائر ويحوّله إلى عميل هو ما تحت السطح.",
+      "items": [
+        {
+          "num": "١",
+          "title": "تجربة واضحة",
+          "description": "العميل يعرف أين يذهب وماذا يفعل من أول ثانية، بدون تفكير أو تردد."
+        },
+        {
+          "num": "٢",
+          "title": "تصميم يخدم الهدف",
+          "description": "كل عنصر في الصفحة موجود لسبب، وكل مساحة فارغة قرار مقصود."
+        },
+        {
+          "num": "٣",
+          "title": "أداء سريع",
+          "description": "تجربة سريعة ومريحة على مختلف الأجهزة وسرعات الاتصال."
+        },
+        {
+          "num": "٤",
+          "title": "قابلية للتطوير",
+          "description": "الموقع مبني بطريقة منظمة تسمح بإضافة صفحات وميزات لاحقًا دون إعادة بناء."
+        }
+      ]
+    },
+    "process": {
+      "index": "٠٣",
+      "label": "كيف أعمل",
+      "title": "من الفكرة إلى الإطلاق.",
+      "subtitle": "طريقة عمل واضحة، بأربع مراحل تعرف فيها دائمًا أين وصل مشروعك.",
+      "steps": [
+        {
+          "num": "٠١",
+          "title": "نفهم فكرتك",
+          "description": "نتحدث عن المشروع، الجمهور، والهدف — قبل رسم أي شيء.",
+          "detail": "أسئلة قليلة وواضحة تكفي لأفهم ما الذي يجعل مشروعك مختلفًا، ومن الذي سيزور الموقع، وما الإجراء الذي نريده منه."
+        },
+        {
+          "num": "٠٢",
+          "title": "نصمم التجربة",
+          "description": "نحوّل الفكرة إلى هيكل وتصميم واضح تشوفه قبل التنفيذ.",
+          "detail": "أبدأ بالهيكل ثم التصميم الكامل في Figma، فتعتمد الشكل النهائي وأنت مطمئن قبل أن تُكتب أول سطر كود."
+        },
+        {
+          "num": "٠٣",
+          "title": "نبني الموقع",
+          "description": "نحوّل التصميم إلى موقع فعلي سريع ومتجاوب مع كل الأجهزة.",
+          "detail": "تطوير نظيف ومنظم، مع اهتمام بالسرعة وسهولة الوصول وتجربة الجوال كأولوية وليست إضافة."
+        },
+        {
+          "num": "٠٤",
+          "title": "نطلقه للعالم",
+          "description": "نختبر كل شيء ونجهّز الموقع للإطلاق ثم نسلّمه جاهزًا.",
+          "detail": "اختبار على الأجهزة والمتصفحات، ضبط الظهور في محركات البحث، ثم الإطلاق وتسليمك الموقع مع شرح لطريقة إدارته."
+        }
+      ]
+    },
+    "work": {
+      "index": "٠٤",
+      "label": "أعمالي",
+      "title": "أعمال تتكلم عني.",
+      "subtitle": "مشاريع مختلفة في مجالها، تجمعها فكرة واحدة: تجربة واضحة تخدم من يستخدمها.",
+      "featuredLabel": "مشروع مميز",
+      "viewCase": "شاهد التفاصيل",
+      "viewProject": "زيارة المشروع",
+      "challengeLabel": "التحدي",
+      "solutionLabel": "الحل",
+      "resultLabel": "النتيجة",
+      "builtLabel": "ما تم بناؤه",
+      "techLabel": "التقنيات",
+      "featured": {
+        "id": "cosmos",
+        "name": "COSMOS",
+        "category": "منصة تعلّم تفاعلية",
+        "year": "٢٠٢٦",
+        "tagline": "منصة تعليمية تجعل الفضاء تجربة تُستكشف، لا صفحة تُقرأ.",
+        "challenge": "المحتوى العلمي عن الفضاء غالبًا نصوص طويلة تفقد انتباه المتعلّم قبل أن يصل إلى الفكرة.",
+        "solution": "بنيت المحتوى حول التفاعل المباشر: كواكب ثلاثية الأبعاد يمكن استكشافها، انتقالات ناعمة بين الأقسام، ونسخة عربية أصلية بالكامل إلى جانب الإنجليزية.",
+        "result": "تجربة تعليمية يستكشفها الزائر بنفسه، تعمل بسلاسة على الجوال والحاسب، وتترك انطباعًا يبقى بعد إغلاق الصفحة.",
+        "built": [
+          "مشاهد ثلاثية الأبعاد تفاعلية",
+          "واجهة عربية وإنجليزية أصلية",
+          "نظام حركة متكامل",
+          "تصميم متجاوب بالكامل"
+        ],
+        "tech": ["Next.js", "TypeScript", "Three.js", "Tailwind CSS", "Framer Motion"],
+        "link": "https://github.com/Asail7/COSMOS-Website"
+      },
+      "items": [
+        {
+          "id": "ofoq",
+          "name": "أفق",
+          "nameLatin": "Ofoq",
+          "category": "تصميم تجربة · منصة ثنائية اللغة",
+          "year": "٢٠٢٥",
+          "description": "منصة تنمية شبابية تقدّم برامج للأطفال والمراهقين. صُممت بواجهة عربية أصلية تحترم اتجاه القراءة، وتجعل تصفّح البرامج والتسجيل فيها خطوات قليلة وواضحة لولي الأمر.",
+          "tech": ["Figma", "Design Systems", "RTL Design", "Prototyping"],
+          "link": ""
+        },
+        {
+          "id": "infra",
+          "name": "منصة نشر البنية التحتية",
+          "nameLatin": "IT Infrastructure Platform",
+          "category": "بنية سحابية",
+          "year": "٢٠٢٥",
+          "description": "مسار متكامل ينقل تطبيق ويب من الكود المحلي إلى بيئة تشغيل حقيقية على السحابة بإعداد آلي، فيختصر ساعات العمل اليدوي ويقلّل الأخطاء عند كل إطلاق.",
+          "tech": ["AWS", "Terraform", "Ansible", "Node.js", "React"],
+          "link": ""
+        },
+        {
+          "id": "sunguard",
+          "name": "SunGuard",
+          "nameLatin": "SunGuard",
+          "category": "لوحة بيانات · مدن ذكية",
+          "year": "٢٠٢٤",
+          "description": "لوحة تتابع أداء الطاقة الشمسية عبر مواقع متعددة، وتحوّل بيانات المستشعرات إلى صورة واضحة يمكن اتخاذ قرار بناءً عليها خلال ثوانٍ.",
+          "tech": ["Cumulocity IoT", "Data Visualization", "Dashboard Design"],
+          "link": ""
+        },
+        {
+          "id": "tadawi",
+          "name": "تداوي",
+          "nameLatin": "TADAWI",
+          "category": "تطبيق جوال · تجربة استخدام",
+          "year": "٢٠٢٤",
+          "description": "تطبيق لحجز مواعيد العيادات يختصر الرحلة من فتح التطبيق إلى تأكيد الموعد في خطوات قليلة، بواجهة عربية بسيطة تناسب مختلف الأعمار.",
+          "tech": ["Flutter", "Dart", "Firebase", "UI/UX Design"],
+          "link": ""
+        }
+      ]
+    },
+    "about": {
+      "index": "٠٥",
+      "label": "عن ASL",
+      "title": "خلف ASL، مبرمجة تهتم بالتفاصيل.",
+      "body": "أنا أصايل، مطوّرة ويب Full Stack مهتمة ببناء تجارب رقمية تجمع بين التصميم الجميل، سهولة الاستخدام، والتطوير الاحترافي.",
+      "extra": "أعمل مع كل مشروع كأنه مشروعي: أسأل قبل أن أصمم، وأصمم قبل أن أطوّر، وأختبر قبل أن أسلّم.",
+      "link": "اعرف أكثر عني",
+      "linkHref": "https://asail.is-a.dev/",
+      "facts": [
+        { "label": "الأساس", "value": "بكالوريوس علوم حاسب" },
+        { "label": "المقر", "value": "الرياض، السعودية" },
+        { "label": "اللغات", "value": "عربي · إنجليزي" }
+      ]
+    },
+    "tech": {
+      "label": "الأدوات",
+      "title": "مبنية بالأدوات المناسبة.",
+      "note": "التقنية وسيلة لا غاية — تختار حسب ما يحتاجه المشروع.",
+      "items": [
+        "Next.js",
+        "TypeScript",
+        "React",
+        "Tailwind CSS",
+        "Node.js",
+        "Python",
+        "Django",
+        "Three.js",
+        "Supabase",
+        "Firebase",
+        "Git",
+        "Figma"
+      ]
+    },
+    "faq": {
+      "index": "٠٦",
+      "label": "الأسئلة الشائعة",
+      "title": "قبل أن نبدأ، قد تتساءل...",
+      "subtitle": "أسئلة تتكرر في أول محادثة مع كل عميل، وهذه إجاباتي عليها.",
+      "items": [
+        {
+          "q": "كم يستغرق بناء الموقع؟",
+          "a": "يعتمد على حجم المشروع. صفحة الهبوط عادة من أسبوع إلى أسبوعين، والموقع التعريفي من أسبوعين إلى أربعة، والمشاريع الأكبر تحتاج وقتًا أطول. في كل الحالات تستلم جدولًا زمنيًا واضحًا قبل بداية العمل."
+        },
+        {
+          "q": "كيف تبدأ عملية المشروع؟",
+          "a": "ترسل فكرتك عبر النموذج في الأسفل، نتحدث عن الهدف والجمهور والمحتوى، ثم يصلك عرض يوضح النطاق والمدة والتكلفة. بعد موافقتك نبدأ مباشرة بمرحلة التصميم."
+        },
+        {
+          "q": "هل تصممين الموقع قبل تطويره؟",
+          "a": "نعم، دائمًا. أبدأ بهيكل الصفحات ثم التصميم الكامل في Figma، وبعد اعتمادك للتصميم يبدأ التطوير. هذا يوفّر وقت التعديلات لاحقًا ويجعلك ترى النتيجة قبل تنفيذها."
+        },
+        {
+          "q": "هل الموقع متجاوب مع الجوال؟",
+          "a": "نعم، وتجربة الجوال تُصمم بشكل مستقل وليست مجرد تصغير لنسخة الحاسب — لأن أغلب زوارك سيصلون من الجوال."
+        },
+        {
+          "q": "هل يمكن تطوير الموقع مستقبلًا؟",
+          "a": "نعم. أبني المواقع بطريقة منظمة تسمح بإضافة صفحات أو أقسام أو ميزات جديدة لاحقًا دون الحاجة لإعادة بناء كل شيء من الصفر."
+        },
+        {
+          "q": "هل يمكنني طلب تعديلات؟",
+          "a": "بالتأكيد. كل مرحلة فيها جولات مراجعة متفق عليها من البداية، وأفضّل أن تصلني ملاحظاتك مبكرًا لأن التعديل في مرحلة التصميم أسرع وأسهل من التعديل بعد التطوير."
+        },
+        {
+          "q": "كيف يتم تحديد السعر؟",
+          "a": "السعر يعتمد على نطاق العمل: عدد الصفحات، مستوى التصميم، الميزات المطلوبة، وعدد اللغات. يصلك عرض واضح وثابت قبل البداية، بدون تكاليف مفاجئة أثناء المشروع."
+        },
+        {
+          "q": "هل أحتاج أن أمتلك تصميمًا جاهزًا؟",
+          "a": "لا. أغلب المشاريع تبدأ من فكرة فقط، وأتولى التصميم والتطوير معًا. وإذا كان لديك هوية أو تصميم جاهز، أعمل عليه مباشرة وأكمل من حيث توقفت."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "عندك فكرة؟ خلنا نبنيها.",
+      "description": "أرسل فكرتك، حتى لو كانت مجرد بداية، ونبدأ من هناك.",
+      "cta": "ابدأ مشروعك"
+    },
+    "contact": {
+      "index": "٠٧",
+      "label": "تواصل",
+      "title": "احكِ لي عن مشروعك.",
+      "subtitle": "املأ النموذج وسأرد عليك خلال ٢٤ ساعة عمل بخطوة واضحة تالية.",
+      "directTitle": "أو تواصل مباشرة",
+      "email": "asail4cs@gmail.com",
+      "emailLabel": "البريد الإلكتروني",
+      "phone": "+966 54 760 2559",
+      "phoneLabel": "الجوال",
+      "responseNote": "الرد خلال ٢٤ ساعة عمل",
+      "fields": {
+        "name": { "label": "الاسم", "placeholder": "اسمك الكامل" },
+        "email": { "label": "البريد الإلكتروني", "placeholder": "name@example.com" },
+        "type": { "label": "نوع المشروع", "placeholder": "اختر نوع المشروع" },
+        "message": { "label": "حدثني عن فكرتك", "placeholder": "اكتب فكرتك بكلماتك — لا تحتاج تفاصيل تقنية." },
+        "budget": { "label": "الميزانية التقريبية", "optional": "اختياري", "placeholder": "لم أحدد بعد" }
+      },
+      "types": [
+        "موقع شركة",
+        "متجر إلكتروني",
+        "صفحة هبوط",
+        "موقع شخصي",
+        "إعادة تصميم",
+        "مشروع مخصص",
+        "أخرى"
+      ],
+      "budgets": ["لم أحدد بعد", "أقل من ٥٬٠٠٠ ر.س", "٥٬٠٠٠ – ١٥٬٠٠٠ ر.س", "١٥٬٠٠٠ – ٣٠٬٠٠٠ ر.س", "أكثر من ٣٠٬٠٠٠ ر.س"],
+      "submit": "أرسل طلبك",
+      "sending": "جارٍ الإرسال...",
+      "required": "مطلوب",
+      "errors": {
+        "name": "من فضلك اكتب اسمك.",
+        "email": "من فضلك اكتب بريدًا إلكترونيًا صحيحًا.",
+        "message": "أخبرني بجملة أو جملتين عن فكرتك.",
+        "generic": "تعذّر إرسال الطلب. جرّب مرة أخرى أو راسلني على البريد مباشرة."
+      },
+      "success": {
+        "title": "وصلتني فكرتك.",
+        "body": "شكرًا لتواصلك. سأقرأ التفاصيل وأرد عليك خلال ٢٤ ساعة عمل.",
+        "again": "إرسال طلب آخر"
+      }
+    },
+    "footer": {
+      "tagline": "تجارب رقمية تُبنى بعناية.",
+      "navTitle": "الموقع",
+      "contactTitle": "تواصل",
+      "socialTitle": "تابعني",
+      "links": [
+        { "label": "الرئيسية", "href": "#top" },
+        { "label": "الخدمات", "href": "#services" },
+        { "label": "أعمالي", "href": "#work" },
+        { "label": "كيف أعمل", "href": "#process" },
+        { "label": "عن ASL", "href": "#about" },
+        { "label": "تواصل", "href": "#contact" }
+      ],
+      "rights": "© ٢٠٢٦ ASL. جميع الحقوق محفوظة.",
+      "backToTop": "العودة للأعلى"
+    }
+  },
+
+  "en": {
+    "dir": "ltr",
+    "locale": "en",
+    "meta": {
+      "title": "ASL — Web Design & Development",
+      "titleTemplate": "ASL — %s",
+      "description": "ASL designs and builds modern, fast, and intuitive websites. Turning ideas into digital experiences that make an impact.",
+      "keywords": [
+        "Web Developer",
+        "Website Development",
+        "Website Design",
+        "Full Stack Developer",
+        "Custom Websites",
+        "Landing Page Design",
+        "Bilingual Website",
+        "Arabic RTL Website",
+        "Riyadh Web Developer",
+        "ASL"
+      ],
+      "ogAlt": "ASL — Web Design & Development"
+    },
+    "brand": {
+      "name": "ASL",
+      "tagline": "Digital experiences, thoughtfully built.",
+      "skipToContent": "Skip to content"
+    },
+    "nav": {
+      "items": [
+        { "label": "Home", "href": "#top" },
+        { "label": "Services", "href": "#services" },
+        { "label": "Work", "href": "#work" },
+        { "label": "Process", "href": "#process" },
+        { "label": "About ASL", "href": "#about" },
+        { "label": "FAQ", "href": "#faq" }
+      ],
+      "cta": "Start a Project",
+      "openMenu": "Open menu",
+      "closeMenu": "Close menu",
+      "langLabel": "Language",
+      "switchTo": "عربي",
+      "menuTitle": "Menu"
+    },
+    "hero": {
+      "eyebrow": "Web design & development · Riyadh",
+      "titleLead": "Your idea deserves a website that",
+      "titleAccent": "makes an impact.",
+      "description": "At ASL, I design and build modern, fast, and intuitive websites that help your idea stand out and connect with the right audience.",
+      "primaryCta": "Start a Project",
+      "secondaryCta": "View My Work",
+      "scrollHint": "Explore",
+      "visual": {
+        "steps": ["Idea", "Design", "Code", "Website"],
+        "browserLabel": "Live preview",
+        "cardTypeTitle": "Typography",
+        "cardTypeValue": "One type system",
+        "cardColorTitle": "Colour",
+        "cardColorValue": "Three tones only",
+        "previewHeadline": "An idea becomes an experience",
+        "previewCta": "Get started"
+      }
+    },
+    "trust": {
+      "items": ["Designed with intention", "Built for people", "Made to perform"]
+    },
+    "services": {
+      "index": "01",
+      "label": "Services",
+      "title": "What can ASL build for you?",
+      "subtitle": "From a single page to a full platform — every project starts with its purpose, never with a template.",
+      "linkLabel": "Enquire about this",
+      "items": [
+        {
+          "num": "01",
+          "icon": "building",
+          "title": "Company Websites",
+          "description": "A professional site that reflects your identity and explains what you do in a way people understand and trust."
+        },
+        {
+          "num": "02",
+          "icon": "rocket",
+          "title": "Startup Websites",
+          "description": "We turn your idea into a digital experience that helps you launch and introduce your project to the world."
+        },
+        {
+          "num": "03",
+          "icon": "target",
+          "title": "Landing Pages",
+          "description": "Pages built around one clear goal: a product launch, a service, a campaign, or collecting qualified leads."
+        },
+        {
+          "num": "04",
+          "icon": "user",
+          "title": "Personal Sites & Portfolios",
+          "description": "A professional digital presence that reflects who you are and shows your work the way it deserves."
+        },
+        {
+          "num": "05",
+          "icon": "refresh",
+          "title": "Website Redesign",
+          "description": "We turn an outdated site into something modern, faster, clearer, and far easier to use."
+        },
+        {
+          "num": "06",
+          "icon": "puzzle",
+          "title": "Custom Web Solutions",
+          "description": "If your project needs something different, we design and build the solution around that specific need."
+        }
+      ]
+    },
+    "value": {
+      "index": "02",
+      "label": "Why ASL",
+      "title": "A good website is more than just good looks.",
+      "subtitle": "Looks earn the first few seconds. What keeps someone — and turns them into a client — sits underneath.",
+      "items": [
+        {
+          "num": "1",
+          "title": "A clear experience",
+          "description": "Visitors know where to go and what to do from the first second, without stopping to think."
+        },
+        {
+          "num": "2",
+          "title": "Design with a purpose",
+          "description": "Every element on the page earns its place, and every empty space is a deliberate decision."
+        },
+        {
+          "num": "3",
+          "title": "Fast performance",
+          "description": "A quick, comfortable experience across devices and connection speeds."
+        },
+        {
+          "num": "4",
+          "title": "Room to grow",
+          "description": "Built in a structured way, so new pages and features can be added later without a rebuild."
+        }
+      ]
+    },
+    "process": {
+      "index": "03",
+      "label": "Process",
+      "title": "From idea to launch.",
+      "subtitle": "A clear way of working, in four stages — so you always know where your project stands.",
+      "steps": [
+        {
+          "num": "01",
+          "title": "Understand your idea",
+          "description": "We talk through the project, the audience, and the goal — before anything is drawn.",
+          "detail": "A few clear questions are enough for me to understand what makes your project different, who will visit, and what you want them to do."
+        },
+        {
+          "num": "02",
+          "title": "Design the experience",
+          "description": "The idea becomes a clear structure and design you see before anything is built.",
+          "detail": "I start with the structure, then the full design in Figma — so you approve the final look before a single line of code is written."
+        },
+        {
+          "num": "03",
+          "title": "Build the website",
+          "description": "The design becomes a real website: fast, responsive, and solid on every device.",
+          "detail": "Clean, well-organised development, with performance, accessibility, and mobile treated as priorities rather than afterthoughts."
+        },
+        {
+          "num": "04",
+          "title": "Launch it",
+          "description": "We test everything, prepare the site, and hand it over ready to go live.",
+          "detail": "Testing across devices and browsers, search-engine setup, then launch — handed over with a walkthrough of how to manage it."
+        }
+      ]
+    },
+    "work": {
+      "index": "04",
+      "label": "Work",
+      "title": "Work that speaks for itself.",
+      "subtitle": "Different fields, one shared idea: a clear experience that serves the person using it.",
+      "featuredLabel": "Featured project",
+      "viewCase": "View case study",
+      "viewProject": "Visit project",
+      "challengeLabel": "The challenge",
+      "solutionLabel": "The approach",
+      "resultLabel": "The result",
+      "builtLabel": "What was built",
+      "techLabel": "Technologies",
+      "featured": {
+        "id": "cosmos",
+        "name": "COSMOS",
+        "category": "Interactive learning platform",
+        "year": "2026",
+        "tagline": "A learning platform that turns space into something you explore, not something you read.",
+        "challenge": "Educational content about space is usually long-form text that loses the learner's attention before the idea lands.",
+        "solution": "I built the content around direct interaction: explorable 3D planets, smooth transitions between sections, and a fully native Arabic experience alongside English.",
+        "result": "A learning experience visitors move through themselves, running smoothly on both mobile and desktop, and leaving an impression that outlasts the visit.",
+        "built": [
+          "Interactive 3D scenes",
+          "Native Arabic & English interface",
+          "A complete motion system",
+          "Fully responsive layout"
+        ],
+        "tech": ["Next.js", "TypeScript", "Three.js", "Tailwind CSS", "Framer Motion"],
+        "link": "https://github.com/Asail7/COSMOS-Website"
+      },
+      "items": [
+        {
+          "id": "ofoq",
+          "name": "Ofoq",
+          "nameLatin": "Ofoq",
+          "category": "UX design · Bilingual platform",
+          "year": "2025",
+          "description": "A youth development platform offering programmes for children and teenagers. Designed with a native Arabic interface that respects reading direction and turns browsing and enrolment into a few clear steps for parents.",
+          "tech": ["Figma", "Design Systems", "RTL Design", "Prototyping"],
+          "link": ""
+        },
+        {
+          "id": "infra",
+          "name": "IT Infrastructure Platform",
+          "nameLatin": "IT Infrastructure Platform",
+          "category": "Cloud infrastructure",
+          "year": "2025",
+          "description": "An end-to-end pipeline that takes a web application from local code to a real production environment in the cloud, automating setup so each release costs fewer hours and fewer mistakes.",
+          "tech": ["AWS", "Terraform", "Ansible", "Node.js", "React"],
+          "link": ""
+        },
+        {
+          "id": "sunguard",
+          "name": "SunGuard",
+          "nameLatin": "SunGuard",
+          "category": "Dashboard · Smart city",
+          "year": "2024",
+          "description": "A dashboard tracking solar energy performance across multiple sites, turning raw sensor data into a picture clear enough to act on within seconds.",
+          "tech": ["Cumulocity IoT", "Data Visualization", "Dashboard Design"],
+          "link": ""
+        },
+        {
+          "id": "tadawi",
+          "name": "TADAWI",
+          "nameLatin": "TADAWI",
+          "category": "Mobile app · UX design",
+          "year": "2024",
+          "description": "A clinic booking app that shortens the journey from opening the app to a confirmed appointment, with a simple Arabic interface that works for every age group.",
+          "tech": ["Flutter", "Dart", "Firebase", "UI/UX Design"],
+          "link": ""
+        }
+      ]
+    },
+    "about": {
+      "index": "05",
+      "label": "About ASL",
+      "title": "Behind ASL is a developer who cares about the details.",
+      "body": "I'm Asail, a Full Stack Web Developer focused on creating digital experiences that combine thoughtful design, usability, and solid development.",
+      "extra": "I treat every project as my own: I ask before I design, design before I build, and test before I hand anything over.",
+      "link": "More about me",
+      "linkHref": "https://asail.is-a.dev/",
+      "facts": [
+        { "label": "Foundation", "value": "BSc Computer Science" },
+        { "label": "Based in", "value": "Riyadh, Saudi Arabia" },
+        { "label": "Languages", "value": "Arabic · English" }
+      ]
+    },
+    "tech": {
+      "label": "Tools",
+      "title": "Built with the right tools.",
+      "note": "Technology is a means, not the point — chosen to fit what the project actually needs.",
+      "items": [
+        "Next.js",
+        "TypeScript",
+        "React",
+        "Tailwind CSS",
+        "Node.js",
+        "Python",
+        "Django",
+        "Three.js",
+        "Supabase",
+        "Firebase",
+        "Git",
+        "Figma"
+      ]
+    },
+    "faq": {
+      "index": "06",
+      "label": "FAQ",
+      "title": "Before we start, you might be wondering...",
+      "subtitle": "The questions that come up in almost every first conversation — and my answers to them.",
+      "items": [
+        {
+          "q": "How long does a website take?",
+          "a": "It depends on scope. A landing page usually takes one to two weeks, a company website two to four, and larger projects longer. In every case you get a clear timeline before any work begins."
+        },
+        {
+          "q": "How does a project start?",
+          "a": "You send your idea through the form below, we talk about the goal, the audience, and the content, then you receive a proposal covering scope, timeline, and cost. Once you approve it, design begins."
+        },
+        {
+          "q": "Do you design before developing?",
+          "a": "Always. I start with page structure, then the full design in Figma. Development only begins after you approve the design — which saves revision time later and lets you see the result before it is built."
+        },
+        {
+          "q": "Will the site work on mobile?",
+          "a": "Yes, and the mobile experience is designed on its own terms rather than shrunk down from desktop — because most of your visitors will arrive on a phone."
+        },
+        {
+          "q": "Can the site grow later?",
+          "a": "Yes. Sites are built in a structured way, so new pages, sections, or features can be added later without rebuilding everything from scratch."
+        },
+        {
+          "q": "Can I request revisions?",
+          "a": "Of course. Each stage includes agreed review rounds, and I'd rather hear your notes early — changes at the design stage are far quicker than changes after development."
+        },
+        {
+          "q": "How is pricing decided?",
+          "a": "Pricing follows scope: number of pages, level of design, features, and how many languages. You get a clear fixed proposal before we start, with no surprise costs along the way."
+        },
+        {
+          "q": "Do I need to have a design ready?",
+          "a": "No. Most projects start from nothing more than an idea, and I handle both design and development. If you already have a brand or design, I'll work with it and continue from there."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Have an idea? Let's build it.",
+      "description": "Tell me about your idea — even if it's still just a beginning.",
+      "cta": "Start a Project"
+    },
+    "contact": {
+      "index": "07",
+      "label": "Contact",
+      "title": "Tell me about your project.",
+      "subtitle": "Fill in the form and I'll reply within one business day with a clear next step.",
+      "directTitle": "Or reach me directly",
+      "email": "asail4cs@gmail.com",
+      "emailLabel": "Email",
+      "phone": "+966 54 760 2559",
+      "phoneLabel": "Phone",
+      "responseNote": "Reply within 1 business day",
+      "fields": {
+        "name": { "label": "Name", "placeholder": "Your full name" },
+        "email": { "label": "Email", "placeholder": "name@example.com" },
+        "type": { "label": "Project type", "placeholder": "Select a project type" },
+        "message": { "label": "Tell me about your idea", "placeholder": "In your own words — no technical detail needed." },
+        "budget": { "label": "Approximate budget", "optional": "optional", "placeholder": "Not decided yet" }
+      },
+      "types": [
+        "Company website",
+        "E-commerce store",
+        "Landing page",
+        "Personal website",
+        "Redesign",
+        "Custom project",
+        "Other"
+      ],
+      "budgets": ["Not decided yet", "Under SAR 5,000", "SAR 5,000 – 15,000", "SAR 15,000 – 30,000", "Above SAR 30,000"],
+      "submit": "Send Project Request",
+      "sending": "Sending...",
+      "required": "required",
+      "errors": {
+        "name": "Please enter your name.",
+        "email": "Please enter a valid email address.",
+        "message": "A sentence or two about your idea is enough.",
+        "generic": "The request couldn't be sent. Please try again or email me directly."
+      },
+      "success": {
+        "title": "Your idea has landed.",
+        "body": "Thank you for reaching out. I'll read through the details and reply within one business day.",
+        "again": "Send another request"
+      }
+    },
+    "footer": {
+      "tagline": "Digital experiences, thoughtfully built.",
+      "navTitle": "Site",
+      "contactTitle": "Contact",
+      "socialTitle": "Elsewhere",
+      "links": [
+        { "label": "Home", "href": "#top" },
+        { "label": "Services", "href": "#services" },
+        { "label": "Work", "href": "#work" },
+        { "label": "Process", "href": "#process" },
+        { "label": "About", "href": "#about" },
+        { "label": "Contact", "href": "#contact" }
+      ],
+      "rights": "© 2026 ASL. All rights reserved.",
+      "backToTop": "Back to top"
+    }
+  },
+
+  "shared": {
+    "social": [
+      { "label": "GitHub", "href": "https://github.com/Asail7" },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/asail7/" }
+    ],
+    "siteUrl": "https://asl.example.com",
+    "email": "asail4cs@gmail.com",
+    "phone": "+966547602559",
+    "phoneDisplay": "+966 54 760 2559"
+  }
+}
