@@ -3,7 +3,6 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   outputFileTracingRoot: process.cwd(),
   reactStrictMode: true,
-  reactStrictMode: true,
   poweredByHeader: false,
   compress: true,
   images: {
