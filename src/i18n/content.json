@@ -10,9 +10,9 @@
         "تصميم مواقع",
         "تطوير مواقع",
         "تصميم وتطوير مواقع",
-        "مبرمجة مواقع",
-        "مطورة ويب",
-        "تصميم مواقع الرياض",
+        "استوديو تصميم مواقع",
+        "فريق تطوير ويب",
+        "تصميم مواقع السعودية",
         "صفحات هبوط",
         "تصميم واجهات",
         "موقع تعريفي للشركات",
@@ -29,8 +29,8 @@
       "items": [
         { "label": "الرئيسية", "href": "#top" },
         { "label": "الخدمات", "href": "#services" },
-        { "label": "أعمالي", "href": "#work" },
-        { "label": "كيف أعمل", "href": "#process" },
+        { "label": "أعمالنا", "href": "#work" },
+        { "label": "كيف نعمل", "href": "#process" },
         { "label": "عن ASL", "href": "#about" },
         { "label": "الأسئلة الشائعة", "href": "#faq" }
       ],
@@ -42,12 +42,12 @@
       "menuTitle": "القائمة"
     },
     "hero": {
-      "eyebrow": "تصميم وتطوير مواقع ويب · الرياض",
+      "eyebrow": "تصميم وتطوير مواقع ويب · السعودية",
       "titleLead": "فكرتك تستحق موقعًا",
       "titleAccent": "يترك أثرًا.",
       "description": "في ASL نصمّم ونطوّر مواقع ويب عصرية، سريعة، وسهلة الاستخدام، تساعدكم على تقديم أفكاركم ومشاريعكم بصورة احترافية تليق بها وتترك أثرًا مميزًا.",
       "primaryCta": "ابدأ مشروعك",
-      "secondaryCta": "شاهد أعمالي",
+      "secondaryCta": "شاهد أعمالنا",
       "scrollHint": "اكتشف",
       "visual": {
         "steps": ["الفكرة", "التصميم", "الكود", "الموقع"],
@@ -86,7 +86,7 @@
           "num": "٠٣",
           "icon": "target",
           "title": "صفحات الهبوط",
-          "description": "صفحات مصممة لهدف واضح: إطلاق منتج، تقديم خدمة، حملة تسويقية، أو جمع العملاء المحتملين."
+          "description": "صفحات نصمّمها لهدف واضح: إطلاق منتج، تقديم خدمة، حملة تسويقية، أو جمع العملاء المحتملين."
         },
         {
           "num": "٠٤",
@@ -138,7 +138,7 @@
     },
     "process": {
       "index": "٠٣",
-      "label": "كيف أعمل",
+      "label": "كيف نعمل",
       "title": "من الفكرة إلى الإطلاق.",
       "subtitle": "طريقة عمل واضحة، بأربع مراحل تعرف فيها دائمًا أين وصل مشروعك.",
       "steps": [
@@ -146,13 +146,13 @@
           "num": "٠١",
           "title": "نفهم فكرتك",
           "description": "نتحدث عن المشروع، الجمهور، والهدف — قبل رسم أي شيء.",
-          "detail": "أسئلة قليلة وواضحة تكفي لأفهم ما الذي يجعل مشروعك مختلفًا، ومن الذي سيزور الموقع، وما الإجراء الذي نريده منه."
+          "detail": "أسئلة قليلة وواضحة تكفينا لنفهم ما الذي يجعل مشروعك مختلفًا، ومن الذي سيزور الموقع، وما الإجراء الذي نريده منه."
         },
         {
           "num": "٠٢",
           "title": "نصمم التجربة",
           "description": "نحوّل الفكرة إلى هيكل وتصميم واضح تشوفه قبل التنفيذ.",
-          "detail": "أبدأ بالهيكل ثم التصميم الكامل في Figma، فتعتمد الشكل النهائي وأنت مطمئن قبل أن تُكتب أول سطر كود."
+          "detail": "نبدأ بالهيكل ثم التصميم الكامل في Figma، فتعتمد الشكل النهائي وأنت مطمئن قبل أن تُكتب أول سطر كود."
         },
         {
           "num": "٠٣",
@@ -170,8 +170,8 @@
     },
     "work": {
       "index": "٠٤",
-      "label": "أعمالي",
-      "title": "أعمال تتكلم عني.",
+      "label": "أعمالنا",
+      "title": "أعمال تتكلم عنا.",
       "subtitle": "مشاريع مختلفة في مجالها، تجمعها فكرة واحدة: تجربة واضحة تخدم من يستخدمها.",
       "featuredLabel": "مشروع مميز",
       "viewCase": "شاهد التفاصيل",
@@ -188,7 +188,7 @@
         "year": "٢٠٢٦",
         "tagline": "منصة تعليمية تجعل الفضاء تجربة تُستكشف، لا صفحة تُقرأ.",
         "challenge": "المحتوى العلمي عن الفضاء غالبًا نصوص طويلة تفقد انتباه المتعلّم قبل أن يصل إلى الفكرة.",
-        "solution": "بنيت المحتوى حول التفاعل المباشر: كواكب ثلاثية الأبعاد يمكن استكشافها، انتقالات ناعمة بين الأقسام، ونسخة عربية أصلية بالكامل إلى جانب الإنجليزية.",
+        "solution": "بنينا المحتوى حول التفاعل المباشر: كواكب ثلاثية الأبعاد يمكن استكشافها، انتقالات ناعمة بين الأقسام، ونسخة عربية أصلية بالكامل إلى جانب الإنجليزية.",
         "result": "تجربة تعليمية يستكشفها الزائر بنفسه، تعمل بسلاسة على الجوال والحاسب، وتترك انطباعًا يبقى بعد إغلاق الصفحة.",
         "built": [
           "مشاهد ثلاثية الأبعاد تفاعلية",
@@ -246,16 +246,20 @@
       "index": "٠٥",
       "label": "عن ASL",
       "title": "أكثر من مجرد موقع، نصنع تجربة رقمية متكاملة.",
-      "body": "في ASL، نحول الأفكار إلى تجارب رقمية تجمع بين التصميم العصري، سهولة الاستخدام، والأداء الاحترافي. نحرص على أن يكون كل مشروع واضحًا، متقنًا، ومصممًا ليحقق هدفه.",
+      "body": "في ASL، نحوّل الأفكار إلى تجارب رقمية تجمع بين التصميم العصري، سهولة الاستخدام، والأداء الاحترافي. نحرص على أن يكون كل مشروع واضحًا، متقنًا، ومصممًا ليحقق هدفه.",
       "extra": "نبدأ بفهم الفكرة واحتياجات المشروع، ثم نصمم بعناية، ونطوّر باحتراف، ونختبر كل التفاصيل قبل التسليم — لأننا نؤمن أن التفاصيل الصغيرة تصنع الفرق الكبير.",
       "link": "اعرف أكثر عن ASL",
-      "linkHref": "",
-      "facts": [ { "label": "الخبرة", "value": "أساس أكاديمي في علوم الحاسب، وخبرة متقدمة في تطوير مواقع ويب تجمع بين التصميم المتقن، الأداء العالي، والتجربة السلسة" }, { "label": "المقر", "value": "الرياض، المملكة العربية السعودية" }, { "label": "اللغات", "value": "العربية · الإنجليزية" } ]
+      "linkHref": "#process",
+      "facts": [
+        { "label": "الخبرة", "value": "أساس أكاديمي في علوم الحاسب، وخبرة في مواقع تجمع التصميم المتقن بالأداء العالي" },
+        { "label": "المقر", "value": "الرياض، المملكة العربية السعودية" },
+        { "label": "اللغات", "value": "العربية · الإنجليزية" }
+      ]
     },
     "tech": {
       "label": "الأدوات",
       "title": "مبنية بالأدوات المناسبة.",
-      "note": "التقنية وسيلة لا غاية — تختار حسب ما يحتاجه المشروع.",
+      "note": "التقنية وسيلة لا غاية — نختارها حسب ما يحتاجه المشروع.",
       "items": [
         "Next.js",
         "TypeScript",
@@ -275,7 +279,7 @@
       "index": "٠٦",
       "label": "الأسئلة الشائعة",
       "title": "قبل أن نبدأ، قد تتساءل...",
-      "subtitle": "أسئلة تتكرر في أول محادثة مع كل عميل، وهذه إجاباتي عليها.",
+      "subtitle": "أسئلة تتكرر في أول محادثة مع كل عميل، وهذه إجاباتنا عنها.",
       "items": [
         {
           "q": "كم يستغرق بناء الموقع؟",
@@ -286,8 +290,8 @@
           "a": "ترسل فكرتك عبر النموذج في الأسفل، نتحدث عن الهدف والجمهور والمحتوى، ثم يصلك عرض يوضح النطاق والمدة والتكلفة. بعد موافقتك نبدأ مباشرة بمرحلة التصميم."
         },
         {
-          "q": "هل تصممين الموقع قبل تطويره؟",
-          "a": "نعم، دائمًا. أبدأ بهيكل الصفحات ثم التصميم الكامل في Figma، وبعد اعتمادك للتصميم يبدأ التطوير. هذا يوفّر وقت التعديلات لاحقًا ويجعلك ترى النتيجة قبل تنفيذها."
+          "q": "هل تصمّمون الموقع قبل تطويره؟",
+          "a": "نعم، دائمًا. نبدأ بهيكل الصفحات ثم التصميم الكامل في Figma، وبعد اعتمادك للتصميم يبدأ التطوير. هذا يوفّر وقت التعديلات لاحقًا ويجعلك ترى النتيجة قبل تنفيذها."
         },
         {
           "q": "هل الموقع متجاوب مع الجوال؟",
@@ -295,11 +299,11 @@
         },
         {
           "q": "هل يمكن تطوير الموقع مستقبلًا؟",
-          "a": "نعم. أبني المواقع بطريقة منظمة تسمح بإضافة صفحات أو أقسام أو ميزات جديدة لاحقًا دون الحاجة لإعادة بناء كل شيء من الصفر."
+          "a": "نعم. نبني المواقع بطريقة منظمة تسمح بإضافة صفحات أو أقسام أو ميزات جديدة لاحقًا دون الحاجة لإعادة بناء كل شيء من الصفر."
         },
         {
           "q": "هل يمكنني طلب تعديلات؟",
-          "a": "بالتأكيد. كل مرحلة فيها جولات مراجعة متفق عليها من البداية، وأفضّل أن تصلني ملاحظاتك مبكرًا لأن التعديل في مرحلة التصميم أسرع وأسهل من التعديل بعد التطوير."
+          "a": "بالتأكيد. كل مرحلة فيها جولات مراجعة متفق عليها من البداية، ونفضّل أن تصلنا ملاحظاتك مبكرًا لأن التعديل في مرحلة التصميم أسرع وأسهل من التعديل بعد التطوير."
         },
         {
           "q": "كيف يتم تحديد السعر؟",
@@ -307,7 +311,7 @@
         },
         {
           "q": "هل أحتاج أن أمتلك تصميمًا جاهزًا؟",
-          "a": "لا. أغلب المشاريع تبدأ من فكرة فقط، وأتولى التصميم والتطوير معًا. وإذا كان لديك هوية أو تصميم جاهز، أعمل عليه مباشرة وأكمل من حيث توقفت."
+          "a": "لا. أغلب المشاريع تبدأ من فكرة فقط، ونتولى التصميم والتطوير معًا. وإذا كان لديك هوية أو تصميم جاهز، نعمل عليه مباشرة ونكمل من حيث توقفت."
         }
       ]
     },
@@ -319,8 +323,8 @@
     "contact": {
       "index": "٠٧",
       "label": "تواصل",
-      "title": "احكِ لي عن مشروعك.",
-      "subtitle": "املأ النموذج وسأرد عليك خلال ٢٤ ساعة عمل بخطوة واضحة تالية.",
+      "title": "احكِ لنا عن مشروعك.",
+      "subtitle": "املأ النموذج وسنرد عليك خلال ٢٤ ساعة عمل بخطوة واضحة تالية.",
       "directTitle": "أو تواصل مباشرة",
       "email": "asail4cs@gmail.com",
       "emailLabel": "البريد الإلكتروني",
@@ -331,7 +335,7 @@
         "name": { "label": "الاسم", "placeholder": "اسمك الكامل" },
         "email": { "label": "البريد الإلكتروني", "placeholder": "name@example.com" },
         "type": { "label": "نوع المشروع", "placeholder": "اختر نوع المشروع" },
-        "message": { "label": "حدثني عن فكرتك", "placeholder": "اكتب فكرتك بكلماتك — لا تحتاج تفاصيل تقنية." },
+        "message": { "label": "حدثنا عن فكرتك", "placeholder": "اكتب فكرتك بكلماتك — لا تحتاج تفاصيل تقنية." },
         "budget": { "label": "الميزانية التقريبية", "optional": "اختياري", "placeholder": "لم أحدد بعد" }
       },
       "types": [
@@ -350,12 +354,12 @@
       "errors": {
         "name": "من فضلك اكتب اسمك.",
         "email": "من فضلك اكتب بريدًا إلكترونيًا صحيحًا.",
-        "message": "أخبرني بجملة أو جملتين عن فكرتك.",
-        "generic": "تعذّر إرسال الطلب. جرّب مرة أخرى أو راسلني على البريد مباشرة."
+        "message": "أخبرنا بجملة أو جملتين عن فكرتك.",
+        "generic": "تعذّر إرسال الطلب. جرّب مرة أخرى أو راسلنا على البريد مباشرة."
       },
       "success": {
-        "title": "وصلتني فكرتك.",
-        "body": "شكرًا لتواصلك. سأقرأ التفاصيل وأرد عليك خلال ٢٤ ساعة عمل.",
+        "title": "وصلتنا فكرتك.",
+        "body": "شكرًا لتواصلك. سنقرأ التفاصيل ونرد عليك خلال ٢٤ ساعة عمل.",
         "again": "إرسال طلب آخر"
       }
     },
@@ -363,12 +367,12 @@
       "tagline": "تجارب رقمية تُبنى بعناية.",
       "navTitle": "الموقع",
       "contactTitle": "تواصل",
-      "socialTitle": "تابعني",
+      "socialTitle": "تابعنا",
       "links": [
         { "label": "الرئيسية", "href": "#top" },
         { "label": "الخدمات", "href": "#services" },
-        { "label": "أعمالي", "href": "#work" },
-        { "label": "كيف أعمل", "href": "#process" },
+        { "label": "أعمالنا", "href": "#work" },
+        { "label": "كيف نعمل", "href": "#process" },
         { "label": "عن ASL", "href": "#about" },
         { "label": "تواصل", "href": "#contact" }
       ],
@@ -383,17 +387,17 @@
     "meta": {
       "title": "ASL — Web Design & Development",
       "titleTemplate": "ASL — %s",
-      "description": "ASL designs and builds modern, fast, and intuitive websites. Turning ideas into digital experiences that make an impact.",
+      "description": "ASL designs and builds modern, fast, and intuitive websites. We turn ideas into digital experiences that make an impact.",
       "keywords": [
-        "Web Developer",
+        "Web Development",
         "Website Development",
         "Website Design",
-        "Full Stack Developer",
+        "Web Design Studio",
         "Custom Websites",
         "Landing Page Design",
         "Bilingual Website",
         "Arabic RTL Website",
-        "Riyadh Web Developer",
+        "Web Design Saudi Arabia",
         "ASL"
       ],
       "ogAlt": "ASL — Web Design & Development"
@@ -420,12 +424,12 @@
       "menuTitle": "Menu"
     },
     "hero": {
-      "eyebrow": "Web design & development · Riyadh",
+      "eyebrow": "Web design & development · Saudi Arabia",
       "titleLead": "Your idea deserves a website that",
       "titleAccent": "makes an impact.",
       "description": "At ASL, we design and develop modern, fast, and user-friendly websites that help you present your ideas and projects professionally, with a digital experience that makes a lasting impression.",
       "primaryCta": "Start a Project",
-      "secondaryCta": "View My Work",
+      "secondaryCta": "View Our Work",
       "scrollHint": "Explore",
       "visual": {
         "steps": ["Idea", "Design", "Code", "Website"],
@@ -464,7 +468,7 @@
           "num": "03",
           "icon": "target",
           "title": "Landing Pages",
-          "description": "Pages built around one clear goal: a product launch, a service, a campaign, or collecting qualified leads."
+          "description": "Pages we build around one clear goal: a product launch, a service, a campaign, or collecting qualified leads."
         },
         {
           "num": "04",
@@ -524,13 +528,13 @@
           "num": "01",
           "title": "Understand your idea",
           "description": "We talk through the project, the audience, and the goal — before anything is drawn.",
-          "detail": "A few clear questions are enough for me to understand what makes your project different, who will visit, and what you want them to do."
+          "detail": "A few clear questions are enough for us to understand what makes your project different, who will visit, and what you want them to do."
         },
         {
           "num": "02",
           "title": "Design the experience",
           "description": "The idea becomes a clear structure and design you see before anything is built.",
-          "detail": "I start with the structure, then the full design in Figma — so you approve the final look before a single line of code is written."
+          "detail": "We start with the structure, then the full design in Figma — so you approve the final look before a single line of code is written."
         },
         {
           "num": "03",
@@ -566,7 +570,7 @@
         "year": "2026",
         "tagline": "A learning platform that turns space into something you explore, not something you read.",
         "challenge": "Educational content about space is usually long-form text that loses the learner's attention before the idea lands.",
-        "solution": "I built the content around direct interaction: explorable 3D planets, smooth transitions between sections, and a fully native Arabic experience alongside English.",
+        "solution": "We built the content around direct interaction: explorable 3D planets, smooth transitions between sections, and a fully native Arabic experience alongside English.",
         "result": "A learning experience visitors move through themselves, running smoothly on both mobile and desktop, and leaving an impression that outlasts the visit.",
         "built": [
           "Interactive 3D scenes",
@@ -627,13 +631,17 @@
       "body": "At ASL, we turn ideas into digital experiences that combine modern design, intuitive usability, and professional performance. Every project is crafted to be clear, polished, and purposeful.",
       "extra": "We start by understanding the idea and its needs, then design with intention, develop with precision, and test every detail before delivery — because we believe the smallest details make the biggest difference.",
       "link": "More about ASL",
-      "linkHref": "",
-      "facts": [ { "label": "Expertise", "value": "Academic foundation in Computer Science, with advanced expertise in building web experiences that combine refined design, high performance, and seamless usability" }, { "label": "Based in", "value": "Riyadh, Saudi Arabia" }, { "label": "Languages", "value": "Arabic · English" } ]
+      "linkHref": "#process",
+      "facts": [
+        { "label": "Expertise", "value": "A Computer Science foundation, and websites that pair refined design with real performance" },
+        { "label": "Based in", "value": "Riyadh, Saudi Arabia" },
+        { "label": "Languages", "value": "Arabic · English" }
+      ]
     },
     "tech": {
       "label": "Tools",
       "title": "Built with the right tools.",
-      "note": "Technology is a means, not the point — chosen to fit what the project actually needs.",
+      "note": "Technology is a means, not the point — we choose it to fit what the project actually needs.",
       "items": [
         "Next.js",
         "TypeScript",
@@ -653,7 +661,7 @@
       "index": "06",
       "label": "FAQ",
       "title": "Before we start, you might be wondering...",
-      "subtitle": "The questions that come up in almost every first conversation — and my answers to them.",
+      "subtitle": "The questions that come up in almost every first conversation — and our answers to them.",
       "items": [
         {
           "q": "How long does a website take?",
@@ -665,7 +673,7 @@
         },
         {
           "q": "Do you design before developing?",
-          "a": "Always. I start with page structure, then the full design in Figma. Development only begins after you approve the design — which saves revision time later and lets you see the result before it is built."
+          "a": "Always. We start with page structure, then the full design in Figma. Development only begins after you approve the design — which saves revision time later and lets you see the result before it is built."
         },
         {
           "q": "Will the site work on mobile?",
@@ -673,11 +681,11 @@
         },
         {
           "q": "Can the site grow later?",
-          "a": "Yes. Sites are built in a structured way, so new pages, sections, or features can be added later without rebuilding everything from scratch."
+          "a": "Yes. We build sites in a structured way, so new pages, sections, or features can be added later without rebuilding everything from scratch."
         },
         {
           "q": "Can I request revisions?",
-          "a": "Of course. Each stage includes agreed review rounds, and I'd rather hear your notes early — changes at the design stage are far quicker than changes after development."
+          "a": "Of course. Each stage includes agreed review rounds, and we'd rather hear your notes early — changes at the design stage are far quicker than changes after development."
         },
         {
           "q": "How is pricing decided?",
@@ -685,21 +693,21 @@
         },
         {
           "q": "Do I need to have a design ready?",
-          "a": "No. Most projects start from nothing more than an idea, and I handle both design and development. If you already have a brand or design, I'll work with it and continue from there."
+          "a": "No. Most projects start from nothing more than an idea, and we handle both design and development. If you already have a brand or design, we'll work with it and continue from there."
         }
       ]
     },
     "finalCta": {
       "title": "Have an idea? Let's build it.",
-      "description": "Tell me about your idea — even if it's still just a beginning.",
+      "description": "Tell us about your idea — even if it's still just a beginning.",
       "cta": "Start a Project"
     },
     "contact": {
       "index": "07",
       "label": "Contact",
-      "title": "Tell me about your project.",
-      "subtitle": "Fill in the form and I'll reply within one business day with a clear next step.",
-      "directTitle": "Or reach me directly",
+      "title": "Tell us about your project.",
+      "subtitle": "Fill in the form and we'll reply within one business day with a clear next step.",
+      "directTitle": "Or reach us directly",
       "email": "asail4cs@gmail.com",
       "emailLabel": "Email",
       "phone": "+966 54 760 2559",
@@ -709,7 +717,7 @@
         "name": { "label": "Name", "placeholder": "Your full name" },
         "email": { "label": "Email", "placeholder": "name@example.com" },
         "type": { "label": "Project type", "placeholder": "Select a project type" },
-        "message": { "label": "Tell me about your idea", "placeholder": "In your own words — no technical detail needed." },
+        "message": { "label": "Tell us about your idea", "placeholder": "In your own words — no technical detail needed." },
         "budget": { "label": "Approximate budget", "optional": "optional", "placeholder": "Not decided yet" }
       },
       "types": [
@@ -729,11 +737,11 @@
         "name": "Please enter your name.",
         "email": "Please enter a valid email address.",
         "message": "A sentence or two about your idea is enough.",
-        "generic": "The request couldn't be sent. Please try again or email me directly."
+        "generic": "The request couldn't be sent. Please try again or email us directly."
       },
       "success": {
         "title": "Your idea has landed.",
-        "body": "Thank you for reaching out. I'll read through the details and reply within one business day.",
+        "body": "Thank you for reaching out. We'll read through the details and reply within one business day.",
         "again": "Send another request"
       }
     },
