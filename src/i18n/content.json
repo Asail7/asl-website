@@ -45,7 +45,7 @@
       "eyebrow": "تصميم وتطوير مواقع ويب · الرياض",
       "titleLead": "فكرتك تستحق موقعًا",
       "titleAccent": "يترك أثرًا.",
-      "description": "في ASL أصمم وأطوّر مواقع ويب عصرية، سريعة، وسهلة الاستخدام تساعدك على تقديم فكرتك ومشروعك بالشكل الذي يستحقه.",
+      "description": "في ASL نصمّم ونطوّر مواقع ويب عصرية، سريعة، وسهلة الاستخدام، تساعدكم على تقديم أفكاركم ومشاريعكم بصورة احترافية تليق بها وتترك أثرًا مميزًا.",
       "primaryCta": "ابدأ مشروعك",
       "secondaryCta": "شاهد أعمالي",
       "scrollHint": "اكتشف",
@@ -245,16 +245,12 @@
     "about": {
       "index": "٠٥",
       "label": "عن ASL",
-      "title": "خلف ASL، مبرمجة تهتم بالتفاصيل.",
-      "body": "أنا أصايل، مطوّرة ويب Full Stack مهتمة ببناء تجارب رقمية تجمع بين التصميم الجميل، سهولة الاستخدام، والتطوير الاحترافي.",
-      "extra": "أعمل مع كل مشروع كأنه مشروعي: أسأل قبل أن أصمم، وأصمم قبل أن أطوّر، وأختبر قبل أن أسلّم.",
-      "link": "اعرف أكثر عني",
-      "linkHref": "https://asail.is-a.dev/",
-      "facts": [
-        { "label": "الأساس", "value": "بكالوريوس علوم حاسب" },
-        { "label": "المقر", "value": "الرياض، السعودية" },
-        { "label": "اللغات", "value": "عربي · إنجليزي" }
-      ]
+      "title": "أكثر من مجرد موقع، نصنع تجربة رقمية متكاملة.",
+      "body": "في ASL، نحول الأفكار إلى تجارب رقمية تجمع بين التصميم العصري، سهولة الاستخدام، والأداء الاحترافي. نحرص على أن يكون كل مشروع واضحًا، متقنًا، ومصممًا ليحقق هدفه.",
+      "extra": "نبدأ بفهم الفكرة واحتياجات المشروع، ثم نصمم بعناية، ونطوّر باحتراف، ونختبر كل التفاصيل قبل التسليم — لأننا نؤمن أن التفاصيل الصغيرة تصنع الفرق الكبير.",
+      "link": "اعرف أكثر عن ASL",
+      "linkHref": "",
+      "facts": [ { "label": "الخبرة", "value": "أساس أكاديمي في علوم الحاسب، وخبرة متقدمة في تطوير مواقع ويب تجمع بين التصميم المتقن، الأداء العالي، والتجربة السلسة" }, { "label": "المقر", "value": "الرياض، المملكة العربية السعودية" }, { "label": "اللغات", "value": "العربية · الإنجليزية" } ]
     },
     "tech": {
       "label": "الأدوات",
@@ -427,7 +423,7 @@
       "eyebrow": "Web design & development · Riyadh",
       "titleLead": "Your idea deserves a website that",
       "titleAccent": "makes an impact.",
-      "description": "At ASL, I design and build modern, fast, and intuitive websites that help your idea stand out and connect with the right audience.",
+      "description": "At ASL, we design and develop modern, fast, and user-friendly websites that help you present your ideas and projects professionally, with a digital experience that makes a lasting impression.",
       "primaryCta": "Start a Project",
       "secondaryCta": "View My Work",
       "scrollHint": "Explore",
@@ -627,16 +623,12 @@
     "about": {
       "index": "05",
       "label": "About ASL",
-      "title": "Behind ASL is a developer who cares about the details.",
-      "body": "I'm Asail, a Full Stack Web Developer focused on creating digital experiences that combine thoughtful design, usability, and solid development.",
-      "extra": "I treat every project as my own: I ask before I design, design before I build, and test before I hand anything over.",
-      "link": "More about me",
-      "linkHref": "https://asail.is-a.dev/",
-      "facts": [
-        { "label": "Foundation", "value": "BSc Computer Science" },
-        { "label": "Based in", "value": "Riyadh, Saudi Arabia" },
-        { "label": "Languages", "value": "Arabic · English" }
-      ]
+      "title": "More than a website — we create complete digital experiences.",
+      "body": "At ASL, we turn ideas into digital experiences that combine modern design, intuitive usability, and professional performance. Every project is crafted to be clear, polished, and purposeful.",
+      "extra": "We start by understanding the idea and its needs, then design with intention, develop with precision, and test every detail before delivery — because we believe the smallest details make the biggest difference.",
+      "link": "More about ASL",
+      "linkHref": "",
+      "facts": [ { "label": "Expertise", "value": "Academic foundation in Computer Science, with advanced expertise in building web experiences that combine refined design, high performance, and seamless usability" }, { "label": "Based in", "value": "Riyadh, Saudi Arabia" }, { "label": "Languages", "value": "Arabic · English" } ]
     },
     "tech": {
       "label": "Tools",
