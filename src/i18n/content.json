@@ -212,11 +212,11 @@
 },
         {
   "id": "mind-forge",
-  "name": "مايند فورج",
+  "name": "Mind Forge",
   "nameLatin": "Mind Forge",
-  "category": "منصة تعليمية · تطوير المهارات",
+  "category": "ألعاب ذهنية · تنمية القدرات العقلية",
   "year": "٢٠٢٦",
-  "description": "منصة تعليمية تفاعلية تهدف إلى تقديم تجربة تعلّم رقمية حديثة، تجمع بين المحتوى التعليمي والتفاعل البصري ضمن واجهة سهلة الاستخدام ومتجاوبة مع مختلف الأجهزة.",
+  "description": "تجربة رقمية تفاعلية تجمع بين الترفيه وتنمية القدرات العقلية من خلال مجموعة من الألعاب المصممة لتحفيز التفكير والتركيز والذاكرة. كما يتيح الموقع للمستخدم خوض اختبار تفاعلي لتقدير عمره العقلي والتعرّف على مستوى قدراته بطريقة ممتعة.",
   "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
   "link": "https://mind-forge-tau.vercel.app/"
 },
@@ -599,9 +599,42 @@
           "Fully responsive layout"
         ],
         "tech": ["Next.js", "TypeScript", "Three.js", "Tailwind CSS", "Framer Motion"],
-        "link": "https://github.com/Asail7/COSMOS-Website"
+        "link": "https://cosmos-website-zeta.vercel.app/"
       },
       "items": [
+        {
+  "id": "333-academy",
+  "name": "333 Academy",
+  "nameLatin": "333 Academy",
+  "category": "Educational Platform · Learning Community",
+  "year": "2026",
+  "description": "A comprehensive digital learning platform that brings together educational courses, quizzes, certificates, and an interactive community in one seamless experience. Designed as a bilingual platform with full Arabic RTL support, it simplifies the learner’s journey from enrollment to course completion.",
+  "tech": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Supabase",
+    "PostgreSQL",
+    "Bunny.net",
+    "Resend"
+  ],
+  "link": "https://333-academy-cyan.vercel.app/en"
+},
+{
+  "id": "mind-forge",
+  "name": "Mind Forge",
+  "nameLatin": "Mind Forge",
+  "category": "Brain Games · Cognitive Development",
+  "year": "2026",
+  "description": "An interactive digital experience that combines entertainment with cognitive development through a collection of games designed to stimulate thinking, focus, and memory. The platform also features an interactive mental age test that allows users to explore their cognitive abilities in a fun and engaging way.",
+  "tech": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion"
+  ],
+  "link": "https://mind-forge-tau.vercel.app/"
+},
         {
           "id": "ofoq",
           "name": "Ofoq",
