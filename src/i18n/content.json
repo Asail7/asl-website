@@ -201,6 +201,26 @@
       },
       "items": [
         {
+  "id": "mind-forge",
+  "name": "Mind Forge",
+  "nameLatin": "Mind Forge",
+  "category": "ألعاب ذهنية · تنمية القدرات العقلية",
+  "year": "٢٠٢٦",
+  "description": "تجربة رقمية تفاعلية تجمع بين الترفيه وتنمية القدرات العقلية من خلال مجموعة من الألعاب المصممة لتحفيز التفكير والتركيز والذاكرة. كما يتيح الموقع للمستخدم خوض اختبار تفاعلي لتقدير عمره العقلي والتعرّف على مستوى قدراته بطريقة ممتعة.",
+  "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+  "link": "https://mind-forge-tau.vercel.app/"
+},
+{
+  "id": "333-academy",
+  "name": "333 التعليمية",
+  "nameLatin": "333 Academy",
+  "category": "منصة تعليمية · مجتمع تعلّمي",
+  "year": "٢٠٢٦",
+  "description": "منصة تعليمية رقمية متكاملة صُممت لتقديم تجربة تعلّم حديثة تجمع بين الدورات التعليمية والاختبارات والشهادات ومجتمع تفاعلي للمتعلمين. تدعم المنصة العربية والإنجليزية، وتوفر رحلة تعليمية متكاملة تبدأ من التسجيل وتنتهي بإتمام الدورة والحصول على الشهادة.",
+  "tech": ["Next.js", "TypeScript", "Tailwind CSS", "Supabase", "PostgreSQL", "Bunny.net", "Resend"],
+  "link": "https://333-academy-cyan.vercel.app/ar"
+},
+        {
           "id": "ofoq",
           "name": "أفق",
           "nameLatin": "Ofoq",
